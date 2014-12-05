@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-02-13T14:38:17Z">
+		<header>
+		</header>
+		<body>
+			<trans-unit id="clear_extbase_cache" xml:space="preserve">
+				<source>Flush Extbase caches</source>
+			</trans-unit>
+			<trans-unit id="clear_extbase_cache_title" xml:space="preserve">
+				<source>Flush Extbase caches, which are not cleared by normal cache clearing procedures</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
